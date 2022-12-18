@@ -4,7 +4,7 @@ y = int(input('Введите y: '))
 if x > 0 and y > 0:
     print('Первая четверть')
 elif x < 0 and y > 0:
-    print('вторая четверть')
+    print('Вторая четверть')
 elif x < 0 and y < 0:
     print('Третья четверть')
 else:
